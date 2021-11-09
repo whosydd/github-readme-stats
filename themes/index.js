@@ -36,6 +36,12 @@ const themes = {
     text_color: "8ec07c",
     bg_color: "282828",
   },
+  gruvbox_light: {
+    title_color: "b57614",
+    icon_color: "af3a03",
+    text_color: "427b58",
+    bg_color: "fbf1c7",
+  },
   tokyonight: {
     title_color: "70a5fd",
     icon_color: "bf91f3",
@@ -317,6 +323,18 @@ const themes = {
     icon_color: "ffffff",
     text_color: "0088ff",
     bg_color: "193549",
+  },
+  swift: {
+    title_color: "000000",
+    icon_color: "f05237",
+    text_color: "000000",
+    bg_color: "f7f7f7",
+  },
+  aura: {
+    title_color: "a277ff",
+    icon_color: "ffca85",
+    text_color: "61ffca",
+    bg_color: "15141b",
   },
 };
 
